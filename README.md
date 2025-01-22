@@ -1,7 +1,7 @@
 # ModuloX Framework
 
 <div align="center">
-![image](https://github.com/user-attachments/assets/ecd923a4-59b4-4297-8cc9-5305355abf16)
+(https://github.com/user-attachments/assets/ecd923a4-59b4-4297-8cc9-5305355abf16)
 
 *The Enterprise-Grade Production-Ready Multi-Agent Framework in Go*
 
