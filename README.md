@@ -1,9 +1,8 @@
 # ModuloX Framework
 
-<div align="center">
 ![image](https://github.com/user-attachments/assets/1fac1587-1311-4f3a-8bae-006fe6623c0e)
 
-*The Enterprise-Grade Production-Ready Multi-Agent Framework in Go*
+                               *The Enterprise-Grade Production-Ready Multi-Agent Framework in Go*
 
 [![Website](https://img.shields.io/badge/website-modulox.app-blue)](https://www.modulox.app)
 [![Twitter](https://img.shields.io/badge/twitter-@ModuloX__ai-blue)](https://x.com/ModuloX_ai)
