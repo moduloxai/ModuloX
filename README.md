@@ -1,8 +1,7 @@
 # ModuloX Framework
 
 <div align="center">
-(https://github.com/user-attachments/assets/ecd923a4-59b4-4297-8cc9-5305355abf16)
-
+https://pbs.twimg.com/profile_banners/1881906715182125056/1737535060/1500x500
 *The Enterprise-Grade Production-Ready Multi-Agent Framework in Go*
 
 [![Website](https://img.shields.io/badge/website-modulox.app-blue)](https://www.modulox.app)
